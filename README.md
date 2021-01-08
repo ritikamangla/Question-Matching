@@ -8,6 +8,7 @@ There was also [Kaggle competition](https://www.kaggle.com/c/quora-question-pair
 ## Dataset
 
 Test data: https://www.kaggle.com/c/quora-question-pairs/download/test.csv 
+Add test data in datasets folder and models folder
 
 ## Word embedding
 300 dimensional [Fasttext word embeddings](https://fasttext.cc/docs/en/pretrained-vectors.html) -> wiki.en.vec are used.
