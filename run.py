@@ -58,6 +58,3 @@ w2v = du.load_embedding(embedding_path)
 end = time.time()
 print("Total time passed: ", (end-start))
 
-model = load_model(model_weights, custom_objects = custom_objects)
-
-print("HI")
